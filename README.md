@@ -1,11 +1,11 @@
 # DSA with C & C++
-### **`Basic termnolgy elementery data organization`**
+### **`Basic terminology elementery data organization`**
 
-A data item refer to a single unit values. data items are divided into sub items those are called group items. Collection of data are frequently organize into a record & field in order to amke these items more precise some additional termnogy are required.
+A data item refer to a single unit values. data items are divided into sub items those are called group items. Collection of data are frequently organize into a record & field in order to make these items more precise some additional terminology are required.
 
-- **`Entity`** : An entity is something that has sorten attributes for properties which may be assiend values, the vales may be numeric & non numeric.
+- **`Entity`** : An entity is something that has certain attributes for properties which may be assiend values, the vales may be numeric & non numeric.
 
-- **`Inforamtion`** : The term inforation ir sometimes used for data with given attributes or meaningful & processed data.
+- **`Inforamtion`** : The term information or sometimes used for data with given attributes or meaningful & processed data.
 
 - **`Files`** : A file can have fixed length records & variable length record.
 
